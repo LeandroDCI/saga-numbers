@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/saga-numbers/static/css/main.048c8380.chunk.css",
+    "main.js": "/saga-numbers/static/js/main.b4aec141.chunk.js",
+    "main.js.map": "/saga-numbers/static/js/main.b4aec141.chunk.js.map",
+    "runtime~main.js": "/saga-numbers/static/js/runtime~main.22b5068e.js",
+    "runtime~main.js.map": "/saga-numbers/static/js/runtime~main.22b5068e.js.map",
+    "static/js/2.99cc62a6.chunk.js": "/saga-numbers/static/js/2.99cc62a6.chunk.js",
+    "static/js/2.99cc62a6.chunk.js.map": "/saga-numbers/static/js/2.99cc62a6.chunk.js.map",
+    "index.html": "/saga-numbers/index.html",
+    "precache-manifest.1ec8a83a7b8a8480c3ce28b008fe051b.js": "/saga-numbers/precache-manifest.1ec8a83a7b8a8480c3ce28b008fe051b.js",
+    "service-worker.js": "/saga-numbers/service-worker.js",
+    "static/css/main.048c8380.chunk.css.map": "/saga-numbers/static/css/main.048c8380.chunk.css.map",
+    "static/media/logo.svg": "/saga-numbers/static/media/logo.3a0fcb80.svg"
+  }
+}
