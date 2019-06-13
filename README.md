@@ -25,4 +25,4 @@ A solution to this assignment is on [this branch](https://github.com/LeandroDCI/
 Check the [live demo](https://leandrodci.github.io/saga-numbers)
 
 # Reference
-If you need to review React-React-Saga check this [walkthrough](https://github.com/LeandroDCI/react-dog-ceo) 
+If you need to review React-Redux-Saga check this [walkthrough](https://github.com/LeandroDCI/react-dog-ceo) 
