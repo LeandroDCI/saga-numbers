@@ -1,0 +1,88 @@
+@import "../node_modules/bootstrap/scss/bootstrap.scss";
+
+
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  /* animation: App-logo-spin infinite 20s linear; */
+  height: 10vmin;
+  pointer-events: none;
+  fill: #ff0000;
+}
+
+.App-header {
+  background-color: #6e7175;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+input{
+  text-align: right;
+}
+
+.credits{
+  margin-top:2em;
+  font-size: x-small;
+} 
+
+
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400italic);
+blockquote{
+  width: 70vw;
+  font-size: 1.4em;
+  margin:20px auto;
+  font-family:Open Sans;
+  font-style:italic;
+  color: #fff;
+  padding:1.2em 30px 1.2em 75px;
+  line-height:1.6;
+  position: relative;
+}
+
+blockquote::before {
+  font-family:Arial;
+  content: "\201C";
+  color:rgb(120, 152, 192);
+  font-size:4em;
+  position: absolute;
+  left: 10px;
+  top:-10px;
+}
+
+blockquote::after{
+  font-family:Arial;
+  content: "\201D";
+  color:rgb(120, 152, 192);
+  font-size:4em;
+  position: absolute;
+  right: 30px;
+  bottom:-70px;
+}
+
+blockquote span{
+  display:block;
+  color:#333333;
+  font-style: normal;
+  font-weight: bold;
+  margin-top:1em;
+}
