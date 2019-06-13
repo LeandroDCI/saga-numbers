@@ -21,7 +21,7 @@ Because of CORS restriction, you can use our [proxy](https://numbers-api-proxy.d
 <img src="screen.png" width="300px">
 
 # Solution
-A solution to this assignment is on [this branch](https://github.com/LeandroDCI/saga-numbers/tree/solution) (merged with master branch now)
+A solution to this assignment is on [this branch](https://github.com/LeandroDCI/saga-numbers/tree/solution) (merged with master branch now)  
 Check the [live demo](https://leandrodci.github.io/saga-numbers)
 
 # Reference
