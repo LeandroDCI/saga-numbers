@@ -9,6 +9,7 @@ Because of CORS restriction, you can use our [proxy](https://numbers-api-proxy.d
 - Reactjs
 - Redux
 - Redux Saga
+- React Ref Hook
 - Axios
 - Sass
 - Bootstrap
