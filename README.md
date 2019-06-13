@@ -19,3 +19,10 @@ Because of CORS restriction, you can use our [proxy](https://numbers-api-proxy.d
 # Example UI
 
 <img src="screen.png" width="300px">
+
+# Solution
+A solution to this assignment is on [this branch](https://github.com/LeandroDCI/saga-numbers/tree/solution)  
+Check the [live demo](https://leandrodci.github.io/saga-numbers)
+
+# Reference
+If you need to review React-React-Saga check this [walkthrough](https://github.com/LeandroDCI/react-dog-ceo) 
