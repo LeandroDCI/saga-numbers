@@ -22,7 +22,7 @@ Because of CORS restriction, you can use our [proxy](https://numbers-api-proxy.d
 
 # Solution
 A solution to this assignment is on [this branch](https://github.com/LeandroDCI/saga-numbers/tree/solution) (merged with master branch now)  
-Check the [live demo](https://leandrodci.github.io/saga-numbers)
+Check the [live demo](https://leandroberlin.github.io/saga-numbers)
 
 # Reference
 If you need to review React-Redux-Saga check this [walkthrough](https://github.com/LeandroDCI/react-dog-ceo) 
